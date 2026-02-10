@@ -1,1 +1,5 @@
-print ("hello Martinez")
+print ("Lab1: Version Control")
+print ("Author: [MARTINEZ]")
+print ("Student ID: TUPM-25-0860")
+print ("Class Section: BSME-1C")
+print ("Login Feature Enabled")
